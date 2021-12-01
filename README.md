@@ -1,4 +1,2 @@
 #My app
-![image](https://imgur.com/ozzwOVE)
-
-<img src="https://imgur.com/ozzwOVE" width="20px">
+<img src="https://i.imgur.com/ozzwOVE.jpeg" width="20px">
